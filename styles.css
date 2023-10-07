@@ -1,0 +1,77 @@
+.skill {
+    margin: 20px;
+
+}
+
+.progress-bar {
+    width: 35%;
+    /* Adjust the width to represent your skill level */
+    background-color: #ccc;
+    height: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progressHTML {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressHTML {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressCSS {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressAJS {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressJS {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressBCSS {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressTCSS {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
+
+.progressAnJS {
+    width: 0;
+    height: 100%;
+    background-color: #2d95f7;
+    /* Color for the filled progress */
+    transition: width 2s ease-in-out;
+}
